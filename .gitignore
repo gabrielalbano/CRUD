@@ -1,0 +1,30 @@
+# eclipse
+.settings
+.project
+.classpath
+
+# idea
+*.iml
+*.ipr
+*.iws
+.idea
+out
+
+# maven
+target
+src/main/resources/production/
+
+# gradle
+bin
+build
+.gradle
+
+# mac
+.store
+.DS_STORE
+
+elytics.properties
+sparta.properties
+web/src/main/resources/application.yml
+*.jar
+#.war
